@@ -2,7 +2,7 @@
 
 Created by: **Marcellus Geraldio Florenta (2702262816)**
 <br>
-Bina Nusantara University - Computer Science
+BINUS University - Computer Science
 
 ---
 
